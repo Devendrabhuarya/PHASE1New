@@ -1,0 +1,7 @@
+attack      rho variant      F1   TPR   FPR det.d rev.d hRev
+sign_flip   1.0 fedavg    0.173   nan   nan   nan   nan  nan
+sign_flip   1.0 median    0.514   nan   nan   nan   nan  nan
+sign_flip   1.0 krum      0.615   nan   nan   nan   nan  nan
+sign_flip   1.0 A0        0.599  0.99  0.02   0.0   2.0  6.0
+sign_flip   1.0 A2        0.445  0.09  0.06  13.5  18.5 22.3
+sign_flip   1.0 A3        0.601  0.95  0.02   0.0   2.0  4.7

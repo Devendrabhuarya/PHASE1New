@@ -1,0 +1,6 @@
+on-off attacker (sign_flip, active 2 of every 6 rounds from round 5), rho=1
+fedavg  F1=0.610 TPR=nan FPR=nan hRev=nan atkRevoked=nan/8
+median  F1=0.595 TPR=nan FPR=nan hRev=nan atkRevoked=nan/8
+A0      F1=0.604 TPR=1.00 FPR=0.025 hRev=12.0 atkRevoked=8.0/8
+A2      F1=0.626 TPR=0.78 FPR=0.004 hRev=0.3 atkRevoked=6.7/8
+A3      F1=0.609 TPR=1.00 FPR=0.023 hRev=10.7 atkRevoked=8.0/8
