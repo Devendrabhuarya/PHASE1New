@@ -1,0 +1,11 @@
+{
+  "name": "abacfl-gateway",
+  "version": "1.0.0",
+  "description": "REST gateway between the Colab FL aggregator and the Hyperledger Fabric network",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "start:mock": "BACKEND=mock node server.js" },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.10.0",
+    "@hyperledger/fabric-gateway": "^1.7.0"
+  }
+}
